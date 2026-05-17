@@ -42,7 +42,7 @@ The scatter plot shows a positive relationship between study hours per day and f
  
 **FIGURE 2: Scatterplot of attendance_rate and final_exam_score**
 <p align="center">
-<img src="Descriptive Statistics.png" width="700">
+<img src="attendance_rate and final_exam_score.png" width="700">
 The analysis shows a positive relationship between attendance rate and final exam performance. Students with higher attendance rates generally tend to obtain better examination scores than those with lower attendance levels. Regular attendance may support students in understanding lecture content more effectively, participating in classroom activities, and staying engaged in the learning process. This emphasizes the importance of classroom participation in contributing to academic success.
   
 **FIGURE 3: Pivot chart of Total Grade Category Distribution **
