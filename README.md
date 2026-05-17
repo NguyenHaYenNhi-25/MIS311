@@ -29,6 +29,7 @@ Descriptive statistics were used to summarize the main characteristics of the da
 **TABLE 1: Descriptive Statistics of final_exam_score, study_hours_per_day and attendance_rate**
 <p align="center">
 <img src="Descriptive Statistics.png" width="700">
+ 
 The average final exam score is about 50, reflecting a moderate level of overall academic performance. On average, students study for approximately 3 hours per day, while the attendance rate stays relatively high at around 84.7 throughout the dataset.
 
 ## Insight 1: Study Hours and Final Exam Performance
@@ -36,6 +37,7 @@ The average final exam score is about 50, reflecting a moderate level of overall
 **FIGURE 1: Scatterplot of study_hours_per_day and final_exam_score**
 <p align="center">
 <img src="Study Hours and Final Exam Score.png" width="700">
+ 
 The scatter plot shows a positive relationship between study hours per day and final exam scores. Students who spend more time studying generally achieve better examination results. This finding indicates that study habits have a significant impact on academic performance. Regular studying may help students improve their understanding of course materials and increase their chances of obtaining better academic outcomes.
 
 ## Insight 2: Attendance Rate and Academic Performance
@@ -43,11 +45,13 @@ The scatter plot shows a positive relationship between study hours per day and f
 **FIGURE 2: Scatterplot of attendance_rate and final_exam_score**
 <p align="center">
 <img src="attendance_rate and final_exam_score.png" width="700">
+ 
 The analysis shows a positive relationship between attendance rate and final exam performance. Students with higher attendance rates generally tend to obtain better examination scores than those with lower attendance levels. Regular attendance may support students in understanding lecture content more effectively, participating in classroom activities, and staying engaged in the learning process. This emphasizes the importance of classroom participation in contributing to academic success.
   
 **FIGURE 3: Pivot chart of Total Grade Category Distribution **
 <p align="center">
 <img src="Total Grade Category Distribution.png" width="700">
+ 
 The distribution of grade categories indicates that the majority of students achieved average performance levels, while a smaller number of students attained the highest grade categories. This distribution provides a general overview of academic achievement in the dataset.
 ### Implications of the Findings
 The findings of this analysis indicate that study habits and classroom attendance are important factors in students’ academic performance. Students who spend more time studying and regularly attend classes generally tend to obtain higher final exam scores. These results suggest that educational institutions may enhance student performance by promoting consistent study routines and encouraging greater participation in classroom activities. Furthermore, offering academic support programs and encouraging effective time management strategies may assist students in achieving better learning outcomes. The analysis also illustrates how data analytics can be applied in the education sector to identify performance patterns and support data-driven decision-making.
