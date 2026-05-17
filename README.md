@@ -35,7 +35,7 @@ The average final exam score is about 50, reflecting a moderate level of overall
  
 **FIGURE 1: Scatterplot of study_hours_per_day and final_exam_score**
 <p align="center">
-<img src="Descriptive Statistics.png" width="700">
+<img src="Study Hours and Final Exam Score.png" width="700">
 The scatter plot shows a positive relationship between study hours per day and final exam scores. Students who spend more time studying generally achieve better examination results. This finding indicates that study habits have a significant impact on academic performance. Regular studying may help students improve their understanding of course materials and increase their chances of obtaining better academic outcomes.
 
 ## Insight 2: Attendance Rate and Academic Performance
