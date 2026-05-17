@@ -47,7 +47,7 @@ The analysis shows a positive relationship between attendance rate and final exa
   
 **FIGURE 3: Pivot chart of Total Grade Category Distribution **
 <p align="center">
-<img src="DescriptiTotal Grade Category Distribution.png" width="700">
+<img src="Total Grade Category Distribution.png" width="700">
 The distribution of grade categories indicates that the majority of students achieved average performance levels, while a smaller number of students attained the highest grade categories. This distribution provides a general overview of academic achievement in the dataset.
 ### Implications of the Findings
 The findings of this analysis indicate that study habits and classroom attendance are important factors in students’ academic performance. Students who spend more time studying and regularly attend classes generally tend to obtain higher final exam scores. These results suggest that educational institutions may enhance student performance by promoting consistent study routines and encouraging greater participation in classroom activities. Furthermore, offering academic support programs and encouraging effective time management strategies may assist students in achieving better learning outcomes. The analysis also illustrates how data analytics can be applied in the education sector to identify performance patterns and support data-driven decision-making.
