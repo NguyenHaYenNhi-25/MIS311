@@ -58,7 +58,11 @@ The findings of this analysis indicate that study habits and classroom attendanc
 
 ### Conclusion
 In conclusion, the exploratory data analysis identified several factors related to student academic performance. The findings show that both study hours and attendance rates are positively associated with final exam scores. These results suggest that consistent study habits and regular class attendance are important factors contributing to academic success. The analysis also demonstrates how business analytics techniques, including descriptive statistics and data visualization, can be applied to discover meaningful insights from educational data.
+
 ### References
+
 GitHub Docs. (2024). Getting started with GitHub. Retrieved from https://docs.github.com/
+
 GitHub. (n.d.). Start your journey. GitHub Docs. Retrieved from https://docs.github.com/
+
 Course Dataset. (2026). Student Exam Performance dataset [Excel dataset]. MIS 311 – Introduction to Business Analytics, Eastern International University.
